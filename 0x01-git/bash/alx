@@ -1,2 +1,10 @@
 #!/bin/bash
 echo "ALX"
+:%s/
+:%s/
+:%s/
+:%s/
+:%s/
+:%s/
+:%s/
+:%s/echo "ALX"echo "ALX School"
